@@ -1,0 +1,193 @@
+data,campaign_name,ad_group,month,impressions,clicks,ctr,conversions,conv_rate,cost,cpc,revenue,sale_amount,p_and_l
+2023-07-10,Back to School Campaign,Shop - 1:1 - Desk - [shop coupon code],July,16038,6504,0.41,1166,0.10,6669.00,1.03,6402.00,136770.05,-267.086
+2023-07-06,Holiday Discount Blast,Shop - 1:1 - Desk - [shop coupon],July,36462,14367,0.39,2188,0.09,13746.00,0.96,13262.00,283215.21,-483.951
+2023-07-14,Summer Promo Campaign,Shop - 1:1 - Desk - [shop discount code],July,3635,1458,0.40,248,0.09,1606.00,1.10,1723.00,39165.46,117.136
+2023-07-25,Exclusive Coupon Drive,Shop - 1:1 - Desk - [shop promo code],July,26185,10418,0.40,2294,0.12,13278.00,1.27,13042.00,284823.48,-235.921
+2023-07-21,Exclusive Coupon Drive,Shop - 1:1 - Desk - [shop promo],July,808,282,0.35,61,0.15,391.00,1.39,337.00,7717.77,-53.604
+2023-07-02,Back to School Campaign,Shop - 1:1 - Mob - [shop coupon code],July,46507,21756,0.47,1665,0.05,13157.00,0.60,8550.00,185824.49,-4606.713
+2023-07-22,Back to School Campaign,Shop - 1:1 - Mob - [shop coupon],July,152394,59177,0.39,2666,0.04,19371.00,0.33,13699.00,294536.92,-5672.271
+2023-07-07,Exclusive Coupon Drive,Shop - 1:1 - Mob - [shop discount code],July,9950,4283,0.43,347,0.05,2637.00,0.62,2038.00,46026.32,-598.993
+2023-07-04,Exclusive Coupon Drive,Shop - 1:1 - Mob - [shop promo code],July,57373,27121,0.47,2940,0.07,16946.00,0.62,14565.00,321387.88,-2380.616
+2023-07-15,Back to School Campaign,Shop - 1:1 - Mob - [shop promo],July,1875,706,0.38,69,0.07,485.00,0.69,409.00,8946.99,-75.734
+2023-07-26,Holiday Discount Blast,Shop - Exact - Desk - Competitor,July,721,195,0.27,25,0.09,188.00,0.97,188.00,3853.27,0.184
+2023-07-16,Holiday Discount Blast,Shop - Exact - Desk - Coupon Code,July,8053,2678,0.33,392,0.08,2814.00,1.05,2475.00,56017.16,-338.630
+2023-07-25,Back to School Campaign,Shop - Exact - Desk - Discount Code,July,2181,539,0.25,70,0.08,577.00,1.07,449.00,10689.01,-128.102
+2023-07-17,Clearance Sale Campaign,Shop - Exact - Desk - Free Shipping,July,656,168,0.26,29,0.17,65.00,0.39,84.00,2097.29,19.218
+2023-07-16,Holiday Discount Blast,Shop - Exact - Desk - Offer,July,490,115,0.23,26,0.12,221.00,1.92,149.00,3058.02,-71.829
+2023-07-07,Holiday Discount Blast,Shop - Exact - Desk - Promo Code,July,7366,2693,0.37,536,0.11,3469.00,1.29,3089.00,68146.26,-380.310
+2023-07-05,Holiday Discount Blast,Shop - Exact - Desk - Sale,July,6318,598,0.09,46,0.07,416.00,0.70,278.00,5552.73,-138.325
+2023-07-28,Summer Promo Campaign,Shop - Exact - Mob - Competitor,July,1771,594,0.34,34,0.05,272.00,0.46,177.00,3576.13,-95.428
+2023-07-22,Exclusive Coupon Drive,Shop - Exact - Mob - Coupon Code,July,27672,9335,0.34,478,0.04,4105.00,0.44,2783.00,62357.68,-1321.609
+2023-07-01,Holiday Discount Blast,Shop - Exact - Mob - Discount Code,July,6278,1506,0.24,59,0.03,817.00,0.54,313.00,6420.67,-504.332
+2023-07-26,Holiday Discount Blast,Shop - Exact - Mob - Free Shipping,July,881,272,0.31,15,0.07,63.00,0.23,22.00,507.90,-40.580
+2023-07-06,Summer Promo Campaign,Shop - Exact - Mob - Offer,July,1029,256,0.25,24,0.07,212.00,0.83,208.00,4425.49,-3.509
+2023-07-09,Exclusive Coupon Drive,Shop - Exact - Mob - Promo Code,July,17771,6635,0.37,590,0.06,4404.00,0.66,3444.00,78127.29,-959.718
+2023-07-20,Summer Promo Campaign,Shop - Exact - Mob - Sale,July,9812,1008,0.10,42,0.04,413.00,0.41,202.00,4242.70,-210.844
+2023-07-15,Clearance Sale Campaign,Shop - Phrase - Desk - Competitor,July,36,5,0.14,2,0.33,5.00,1.05,13.00,261.40,8.070
+2023-07-12,Holiday Discount Blast,Shop - Phrase - Desk - Coupon Code,July,9751,3402,0.35,579,0.10,3792.00,1.11,3547.00,75564.22,-244.797
+2023-07-11,Back to School Campaign,Shop - Phrase - Desk - Discount Code,July,1062,147,0.14,13,0.06,135.00,0.92,67.00,1682.55,-68.055
+2023-07-20,Exclusive Coupon Drive,Shop - Phrase - Desk - Free Shipping,July,66,8,0.12,0,0.00,3.00,0.48,0.00,0.00,-3.000
+2023-07-07,Exclusive Coupon Drive,Shop - Phrase - Desk - Offer,July,389,54,0.14,10,0.19,58.00,1.09,63.00,1264.52,5.229
+2023-07-25,Back to School Campaign,Shop - Phrase - Desk - Promo Code,July,5919,1954,0.33,408,0.12,2396.00,1.23,2400.00,50958.58,3.585
+2023-07-28,Holiday Discount Blast,Shop - Phrase - Desk - Sale,July,8180,593,0.07,34,0.07,426.00,0.72,232.00,4631.94,-194.385
+2023-07-16,Clearance Sale Campaign,Shop - Phrase - Mob - Competitor,July,55,11,0.20,2,0.10,5.00,0.51,16.00,313.50,10.675
+2023-07-11,Exclusive Coupon Drive,Shop - Phrase - Mob - Coupon Code,July,18457,6762,0.37,380,0.04,3660.00,0.54,2262.00,49153.07,-1397.734
+2023-07-20,Summer Promo Campaign,Shop - Phrase - Mob - Discount Code,July,1813,264,0.15,4,0.01,138.00,0.53,21.00,419.62,-117.017
+2023-07-02,Summer Promo Campaign,Shop - Phrase - Mob - Free Shipping,July,118,15,0.13,0,0.00,6.00,0.40,0.00,0.00,-6.000
+2023-07-16,Clearance Sale Campaign,Shop - Phrase - Mob - Offer,July,593,109,0.18,3,0.04,52.00,0.49,8.00,168.54,-43.571
+2023-07-25,Holiday Discount Blast,Shop - Phrase - Mob - Promo Code,July,9838,3509,0.36,282,0.06,2562.00,0.73,1836.00,41275.06,-725.722
+2023-07-27,Clearance Sale Campaign,Shop - Phrase - Mob - Sale,July,17807,2054,0.12,35,0.03,981.00,0.48,262.00,5531.15,-718.568
+2023-08-27,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop promo code],August,40627,17655,0.43,1968,0.07,12262.00,0.69,10303.00,230817.79,-1958.963
+2023-08-09,Exclusive Coupon Drive,Shop - 1:1 - Desk - [shop promo code],August,19648,7673,0.39,1622,0.11,11235.00,1.46,9928.00,216628.45,-1307.273
+2023-08-22,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop coupon],August,105966,32005,0.30,1530,0.04,10713.00,0.33,8473.00,185757.89,-2240.076
+2023-08-26,Holiday Discount Blast,Shop - 1:1 - Desk - [shop coupon],August,28499,10141,0.36,1509,0.08,10586.00,1.04,8859.00,192105.72,-1727.135
+2023-08-19,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop coupon code],August,34189,13905,0.41,1218,0.06,8146.00,0.59,6766.00,148681.16,-1380.324
+2023-08-21,Clearance Sale Campaign,Shop - 1:1 - Desk - [shop coupon code],August,12790,4983,0.39,897,0.10,6123.00,1.23,5590.00,123475.45,-532.537
+2023-08-02,Holiday Discount Blast,Shop - Exact - Desk - Promo Code,August,6561,2328,0.35,498,0.11,3467.00,1.49,3316.00,78661.00,-150.503
+2023-08-09,Holiday Discount Blast,Shop - Exact - Mob - Promo Code,August,13488,4605,0.34,435,0.06,2884.00,0.63,2678.00,60074.53,-205.997
+2023-08-19,Summer Promo Campaign,Shop - Exact - Desk - Coupon Code,August,6244,2020,0.32,327,0.09,2267.00,1.12,2115.00,51885.05,-151.631
+2023-08-11,Summer Promo Campaign,Shop - Phrase - Desk - Promo Code,August,4729,1635,0.35,315,0.11,2229.00,1.36,2010.00,44479.12,-218.804
+2023-08-03,Back to School Campaign,Shop - Exact - Mob - Coupon Code,August,16969,5126,0.30,340,0.05,2176.00,0.42,1992.00,44234.46,-184.295
+2023-08-03,Back to School Campaign,Shop - Phrase - Desk - Coupon Code,August,5283,1632,0.31,226,0.08,1767.00,1.08,1455.00,33678.17,-312.263
+2023-08-26,Holiday Discount Blast,Shop - 1:1 - Mob - [shop discount code],August,7544,2523,0.33,216,0.05,1590.00,0.63,1591.00,35605.11,1.360
+2023-08-15,Exclusive Coupon Drive,Shop - 1:1 - Desk - [shop discount code],August,2938,1111,0.38,197,0.09,1571.00,1.41,1203.00,27608.55,-368.016
+2023-08-28,Holiday Discount Blast,Shop - Phrase - Mob - Promo Code,August,7040,2407,0.34,214,0.06,1430.00,0.59,1373.00,31563.25,-56.691
+2023-08-23,Exclusive Coupon Drive,Shop - Phrase - Mob - Coupon Code,August,8203,2504,0.31,146,0.04,1148.00,0.46,851.00,19110.69,-297.275
+2023-08-11,Clearance Sale Campaign,Shop - Exact - Desk - Discount Code,August,2263,556,0.25,74,0.08,627.00,1.13,516.00,11853.27,-111.385
+2023-08-07,Holiday Discount Blast,Shop - Phrase - Desk - Sale,August,6770,629,0.09,37,0.06,486.00,0.77,240.00,5356.52,-245.860
+2023-08-08,Clearance Sale Campaign,Shop - Exact - Mob - Discount Code,August,3973,933,0.23,52,0.04,406.00,0.44,470.00,11817.23,64.046
+2023-08-12,Back to School Campaign,Shop - Phrase - Mob - Sale,August,7044,947,0.13,35,0.04,401.00,0.42,285.00,5960.76,-116.499
+2023-08-05,Exclusive Coupon Drive,Shop - 1:1 - Mob - [shop promo],August,1489,472,0.32,61,0.08,347.00,0.74,295.00,6494.87,-52.103
+2023-08-03,Clearance Sale Campaign,Shop - 1:1 - Desk - [shop promo],August,745,240,0.32,52,0.11,343.00,1.43,346.00,7835.88,3.171
+2023-08-11,Clearance Sale Campaign,Shop - Exact - Desk - Offer,August,613,163,0.27,39,0.12,329.00,2.02,274.00,5752.61,-54.539
+2023-08-07,Clearance Sale Campaign,Shop - Exact - Desk - Sale,August,3187,341,0.11,20,0.04,273.00,0.80,162.00,3395.73,-110.746
+2023-08-03,Clearance Sale Campaign,Shop - Exact - Mob - Sale,August,3884,565,0.15,27,0.04,229.00,0.41,173.00,3888.51,-55.920
+2023-08-26,Holiday Discount Blast,Shop - Phrase - Desk - Offer,August,618,149,0.24,25,0.09,182.00,1.23,106.00,2205.34,-76.222
+2023-08-13,Exclusive Coupon Drive,Shop - Exact - Mob - Offer,August,986,248,0.25,24,0.06,177.00,0.71,162.00,3563.44,-14.789
+2023-08-11,Clearance Sale Campaign,Shop - Phrase - Desk - Discount Code,August,1088,159,0.15,15,0.06,163.00,1.03,87.00,1955.08,-76.294
+2023-08-10,Back to School Campaign,Shop - Exact - Desk - Competitor,August,591,153,0.26,24,0.10,161.00,1.05,173.00,3503.52,12.192
+2023-08-07,Summer Promo Campaign,Shop - Exact - Mob - Competitor,August,1113,333,0.30,14,0.04,142.00,0.43,76.00,1876.34,-65.527
+2023-08-13,Holiday Discount Blast,Shop - Phrase - Mob - Discount Code,August,1303,233,0.18,9,0.03,111.00,0.48,51.00,1025.91,-59.699
+2023-08-17,Back to School Campaign,Shop - Phrase - Mob - Offer,August,689,172,0.25,13,0.05,89.00,0.52,57.00,1226.22,-31.685
+2023-08-04,Clearance Sale Campaign,Shop - Exact - Desk - Free Shipping,August,678,163,0.24,28,0.17,76.00,0.47,70.00,1509.18,-6.110
+2023-08-17,Exclusive Coupon Drive,Shop - Exact - Mob - Free Shipping,August,817,274,0.34,19,0.07,68.00,0.25,29.00,650.73,-39.016
+2023-08-06,Back to School Campaign,Shop - Phrase - Mob - Free Shipping,August,111,27,0.24,0,0.00,8.00,0.30,0.00,0.00,-8.000
+2023-08-21,Back to School Campaign,Shop - Phrase - Mob - Competitor,August,50,13,0.26,3,0.13,6.00,0.53,41.00,822.51,35.132
+2023-08-09,Exclusive Coupon Drive,Shop - Phrase - Desk - Free Shipping,August,67,8,0.12,1,0.07,6.00,0.81,0.00,5.96,-5.702
+2023-08-06,Clearance Sale Campaign,Shop - Phrase - Desk - Competitor,August,35,3,0.09,0,0.00,1.00,0.62,0.00,0.00,-1.000
+2023-09-05,Summer Promo Campaign,Shop - 1:1 - Mob - [shop coupon],September,90806,40622,0.45,1421,0.03,10904.00,0.27,7891.00,170418.87,-3012.910
+2023-09-18,Holiday Discount Blast,Shop - 1:1 - Mob - [shop promo code],September,32462,14427,0.44,1510,0.06,9562.00,0.66,8838.00,196210.87,-724.153
+2023-09-03,Back to School Campaign,Shop - 1:1 - Desk - [shop promo code],September,15673,6199,0.40,1242,0.11,9163.00,1.48,7264.00,158674.10,-1899.421
+2023-09-02,Holiday Discount Blast,Shop - 1:1 - Desk - [shop coupon],September,20879,8135,0.39,1034,0.07,8069.00,0.99,6153.00,132508.12,-1915.530
+2023-09-12,Exclusive Coupon Drive,Shop - 1:1 - Mob - [shop coupon code],September,26710,11918,0.45,921,0.05,6628.00,0.56,5604.00,124194.91,-1023.587
+2023-09-07,Back to School Campaign,Shop - 1:1 - Desk - [shop coupon code],September,9759,3904,0.40,593,0.08,4949.00,1.27,3973.00,87840.47,-975.676
+2023-09-23,Exclusive Coupon Drive,Shop - Exact - Desk - Promo Code,September,5480,2003,0.37,371,0.10,2984.00,1.49,3013.00,73096.84,29.101
+2023-09-06,Back to School Campaign,Shop - Exact - Mob - Promo Code,September,10938,4247,0.39,343,0.05,2486.00,0.59,2410.00,57157.19,-76.263
+2023-09-13,Summer Promo Campaign,Shop - Exact - Mob - Coupon Code,September,16362,5876,0.36,302,0.04,2199.00,0.37,1970.00,44401.87,-229.336
+2023-09-05,Exclusive Coupon Drive,Shop - Exact - Desk - Coupon Code,September,5304,1702,0.32,216,0.07,1912.00,1.12,1451.00,34236.93,-461.198
+2023-09-28,Exclusive Coupon Drive,Shop - Phrase - Desk - Promo Code,September,3939,1321,0.34,205,0.09,1845.00,1.40,1678.00,40606.65,-166.708
+2023-09-23,Summer Promo Campaign,Shop - Phrase - Desk - Coupon Code,September,3255,1077,0.33,166,0.08,1413.00,1.31,1391.00,35526.39,-22.432
+2023-09-06,Exclusive Coupon Drive,Shop - 1:1 - Mob - [shop discount code],September,5471,2169,0.40,170,0.05,1302.00,0.60,1153.00,25744.04,-149.243
+2023-09-16,Summer Promo Campaign,Shop - 1:1 - Desk - [shop discount code],September,2163,866,0.40,139,0.08,1165.00,1.35,1073.00,24921.42,-92.089
+2023-09-14,Holiday Discount Blast,Shop - Phrase - Mob - Coupon Code,September,6231,2152,0.35,143,0.04,1096.00,0.51,947.00,20744.22,-149.269
+2023-09-03,Exclusive Coupon Drive,Shop - Phrase - Mob - Promo Code,September,4655,1583,0.34,110,0.05,826.00,0.52,753.00,16455.92,-72.812
+2023-09-15,Summer Promo Campaign,Shop - Exact - Desk - Sale,September,9989,1176,0.12,43,0.05,574.00,0.49,249.00,4979.44,-325.007
+2023-09-06,Back to School Campaign,Shop - Phrase - Desk - Offer,September,1498,377,0.25,55,0.09,546.00,1.45,303.00,6071.61,-242.840
+2023-09-07,Exclusive Coupon Drive,Shop - Exact - Mob - Discount Code,September,4224,1181,0.28,54,0.03,519.00,0.44,327.00,6664.23,-192.354
+2023-09-19,Summer Promo Campaign,Shop - Exact - Desk - Discount Code,September,1650,432,0.26,48,0.06,457.00,1.06,406.00,9718.82,-50.676
+2023-09-15,Clearance Sale Campaign,Shop - Phrase - Desk - Sale,September,6314,526,0.08,26,0.06,400.00,0.76,157.00,3144.20,-242.776
+2023-09-01,Back to School Campaign,Shop - Phrase - Mob - Offer,September,2018,621,0.31,45,0.05,373.00,0.60,308.00,6807.69,-65.172
+2023-09-08,Summer Promo Campaign,Shop - 1:1 - Desk - [shop promo],September,548,200,0.36,39,0.11,279.00,1.40,251.00,5241.81,-28.119
+2023-09-11,Holiday Discount Blast,Shop - 1:1 - Mob - [shop promo],September,1255,439,0.35,38,0.06,272.00,0.62,207.00,4232.70,-64.595
+2023-09-21,Back to School Campaign,Shop - Exact - Desk - Offer,September,628,148,0.24,21,0.09,240.00,1.62,202.00,4050.38,-37.973
+2023-09-25,Exclusive Coupon Drive,Shop - Exact - Mob - Offer,September,1288,340,0.26,20,0.04,239.00,0.70,143.00,2960.84,-96.196
+2023-09-10,Holiday Discount Blast,Shop - Phrase - Mob - Sale,September,6444,593,0.09,27,0.05,231.00,0.39,221.00,5500.50,-9.519
+2023-09-03,Summer Promo Campaign,Shop - Phrase - Mob - Discount Code,September,1848,447,0.24,28,0.05,217.00,0.49,179.00,3765.30,-38.448
+2023-09-09,Holiday Discount Blast,Shop - Exact - Mob - Sale,September,8902,661,0.07,25,0.04,216.00,0.33,173.00,4259.42,-42.990
+2023-09-08,Back to School Campaign,Shop - Exact - Mob - Competitor,September,1077,368,0.34,14,0.03,164.00,0.45,67.00,1430.86,-96.952
+2023-09-23,Holiday Discount Blast,Shop - Phrase - Desk - Discount Code,September,810,123,0.15,17,0.09,134.00,1.09,121.00,2514.88,-12.744
+2023-09-19,Back to School Campaign,Shop - Exact - Desk - Competitor,September,514,123,0.24,16,0.10,130.00,1.06,110.00,2197.05,-20.139
+2023-09-25,Back to School Campaign,Shop - Exact - Desk - Free Shipping,September,499,116,0.23,14,0.11,52.00,0.45,74.00,2728.40,21.998
+2023-09-18,Exclusive Coupon Drive,Shop - Exact - Mob - Free Shipping,September,560,178,0.32,7,0.05,39.00,0.22,12.00,235.27,-27.233
+2023-09-04,Clearance Sale Campaign,Shop - Phrase - Mob - Free Shipping,September,98,22,0.22,0,0.00,6.00,0.29,0.00,0.00,-6.000
+2023-09-26,Summer Promo Campaign,Shop - Phrase - Mob - Competitor,September,54,9,0.17,1,0.11,4.00,0.45,1.00,28.93,-2.553
+2023-09-15,Back to School Campaign,Shop - Phrase - Desk - Free Shipping,September,52,4,0.08,1,0.50,1.00,0.43,20.00,678.00,19.340
+2023-09-23,Clearance Sale Campaign,Shop - Phrase - Desk - Competitor,September,38,2,0.05,0,0.00,1.00,0.57,0.00,0.00,-1.000
+2023-10-27,Back to School Campaign,Shop - 1:1 - Mob - [shop coupon],October,93406,36068,0.39,2444,0.05,12236.00,0.34,13744.00,285638.30,1507.685
+2023-10-18,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop promo code],October,34929,15595,0.45,2193,0.09,11258.00,0.72,12025.00,252296.27,766.859
+2023-10-07,Back to School Campaign,Shop - 1:1 - Desk - [shop promo code],October,16953,6484,0.38,1499,0.12,10080.00,1.55,9553.00,210096.13,-527.249
+2023-10-03,Summer Promo Campaign,Shop - 1:1 - Desk - [shop coupon],October,24598,8693,0.35,1421,0.09,9461.00,1.09,8186.00,171724.63,-1274.747
+2023-10-25,Back to School Campaign,Shop - 1:1 - Mob - [shop coupon code],October,28102,12485,0.44,1393,0.07,7192.00,0.58,7955.00,166656.05,762.921
+2023-10-09,Holiday Discount Blast,Shop - 1:1 - Desk - [shop coupon code],October,10826,4021,0.37,725,0.10,4812.00,1.20,4627.00,96617.00,-184.857
+2023-10-26,Clearance Sale Campaign,Shop - Exact - Mob - Promo Code,October,13525,5656,0.42,621,0.07,3435.00,0.61,3487.00,74522.54,51.685
+2023-10-24,Summer Promo Campaign,Shop - Exact - Desk - Promo Code,October,6254,2064,0.33,456,0.12,3012.00,1.46,3180.00,69872.95,168.373
+2023-10-15,Back to School Campaign,Shop - Phrase - Desk - Promo Code,October,6908,1874,0.27,337,0.10,2325.00,1.24,2329.00,49148.43,4.066
+2023-10-28,Exclusive Coupon Drive,Shop - Exact - Mob - Coupon Code,October,15769,6046,0.38,440,0.05,2318.00,0.38,2655.00,55815.23,337.125
+2023-10-22,Back to School Campaign,Shop - Exact - Desk - Coupon Code,October,5044,1555,0.31,267,0.10,1734.00,1.12,1654.00,34980.16,-79.595
+2023-10-02,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop discount code],October,5789,2510,0.43,269,0.07,1546.00,0.62,1889.00,40122.76,342.979
+2023-10-06,Clearance Sale Campaign,Shop - Phrase - Mob - Promo Code,October,9619,2908,0.30,199,0.05,1476.00,0.51,1211.00,25311.15,-265.424
+2023-10-01,Summer Promo Campaign,Shop - 1:1 - Desk - [shop discount code],October,2336,855,0.37,173,0.10,1081.00,1.27,1179.00,25104.24,97.764
+2023-10-28,Summer Promo Campaign,Shop - Exact - Mob - Discount Code,October,4715,1397,0.30,93,0.05,615.00,0.44,587.00,12245.37,-27.854
+2023-10-13,Back to School Campaign,Shop - Phrase - Desk - Offer,October,2065,427,0.21,73,0.11,499.00,1.17,472.00,9859.20,-27.457
+2023-10-21,Clearance Sale Campaign,Shop - Exact - Desk - Discount Code,October,1770,412,0.23,79,0.11,488.00,1.19,481.00,11375.79,-7.255
+2023-10-15,Exclusive Coupon Drive,Shop - Phrase - Mob - Offer,October,3279,952,0.29,61,0.06,468.00,0.49,423.00,8585.47,-45.085
+2023-10-27,Holiday Discount Blast,Shop - Exact - Desk - Sale,October,7385,756,0.10,37,0.07,447.00,0.59,198.00,3967.40,-248.605
+2023-10-01,Clearance Sale Campaign,Shop - 1:1 - Desk - [shop promo],October,965,280,0.29,59,0.12,422.00,1.51,446.00,9021.68,24.122
+2023-10-28,Back to School Campaign,Shop - Phrase - Mob - Coupon Code,October,2524,819,0.32,82,0.07,418.00,0.51,535.00,10694.68,116.783
+2023-10-25,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop promo],October,1706,676,0.40,72,0.07,412.00,0.61,372.00,7875.81,-40.219
+2023-10-20,Summer Promo Campaign,Shop - Phrase - Desk - Coupon Code,October,1398,361,0.26,58,0.09,407.00,1.13,340.00,7222.90,-66.820
+2023-10-06,Summer Promo Campaign,Shop - Phrase - Mob - Discount Code,October,3223,752,0.23,43,0.05,316.00,0.42,498.00,10932.34,181.597
+2023-10-12,Holiday Discount Blast,Shop - Exact - Mob - Offer,October,1408,463,0.33,42,0.07,290.00,0.63,295.00,6331.84,5.253
+2023-10-18,Clearance Sale Campaign,Shop - Exact - Desk - Offer,October,649,151,0.23,25,0.12,282.00,1.87,165.00,3293.63,-117.279
+2023-10-04,Summer Promo Campaign,Shop - Exact - Mob - Sale,October,8454,726,0.09,26,0.04,277.00,0.38,115.00,2300.72,-161.951
+2023-10-11,Clearance Sale Campaign,Shop - Phrase - Mob - Sale,October,4894,551,0.11,24,0.05,226.00,0.41,122.00,2612.68,-104.006
+2023-10-15,Clearance Sale Campaign,Shop - Phrase - Desk - Discount Code,October,1074,190,0.18,22,0.07,190.00,1.01,184.00,4345.15,-6.287
+2023-10-07,Back to School Campaign,Shop - Phrase - Desk - Sale,October,3023,228,0.08,14,0.06,172.00,0.76,108.00,2152.46,-64.371
+2023-10-06,Exclusive Coupon Drive,Shop - Exact - Mob - Competitor,October,1000,321,0.32,23,0.06,154.00,0.48,136.00,2793.15,-17.826
+2023-10-13,Back to School Campaign,Shop - Exact - Desk - Competitor,October,451,93,0.21,11,0.07,111.00,1.20,81.00,1626.05,-29.694
+2023-10-16,Summer Promo Campaign,Shop - Exact - Mob - Free Shipping,October,709,208,0.29,12,0.08,45.00,0.22,14.00,309.09,-30.542
+2023-10-05,Summer Promo Campaign,Shop - Exact - Desk - Free Shipping,October,457,99,0.22,13,0.14,35.00,0.36,23.00,469.67,-11.512
+2023-10-03,Holiday Discount Blast,Shop - Phrase - Mob - Competitor,October,44,12,0.27,2,0.13,8.00,0.67,22.00,431.41,13.574
+2023-10-07,Exclusive Coupon Drive,Shop - Phrase - Desk - Free Shipping,October,72,9,0.13,1,0.14,5.00,0.57,8.00,157.97,2.900
+2023-10-13,Holiday Discount Blast,Shop - Phrase - Mob - Free Shipping,October,100,14,0.14,3,0.21,3.00,0.26,4.00,83.20,1.161
+2023-11-19,Back to School Campaign,Shop - 1:1 - Mob - [shop coupon],November,276568,99526,0.36,5961,0.05,38273.00,0.38,32668.00,677188.10,-5605.297
+2023-11-18,Back to School Campaign,Shop - 1:1 - Desk - [shop coupon],November,73448,25283,0.34,4080,0.10,27336.00,1.08,23857.00,497790.81,-3478.644
+2023-11-24,Exclusive Coupon Drive,Shop - 1:1 - Desk - [shop promo code],November,64067,23538,0.37,5782,0.15,37729.00,1.60,34518.00,725773.92,-3211.121
+2023-11-01,Back to School Campaign,Shop - Exact - Mob - Sale,November,15422,2078,0.13,62,0.03,2597.00,1.25,427.00,8733.41,-2170.044
+2023-11-26,Exclusive Coupon Drive,Shop - 1:1 - Desk - [shop coupon code],November,38523,14393,0.37,2713,0.12,18641.00,1.30,16555.00,345891.36,-2086.300
+2023-11-03,Back to School Campaign,Shop - Phrase - Mob - Offer,November,31793,7159,0.23,532,0.08,5075.00,0.71,3260.00,66443.24,-1814.562
+2023-11-04,Back to School Campaign,Shop - Phrase - Mob - Promo Code,November,50422,10147,0.20,773,0.06,5764.00,0.57,4472.00,92805.77,-1291.908
+2023-11-19,Holiday Discount Blast,Shop - Exact - Mob - Coupon Code,November,54501,19058,0.35,1345,0.05,9302.00,0.49,8134.00,171895.90,-1168.009
+2023-11-12,Holiday Discount Blast,Shop - 1:1 - Mob - [shop promo code],November,138811,57405,0.41,7563,0.10,43542.00,0.76,42440.00,886095.31,-1101.899
+2023-11-07,Summer Promo Campaign,Shop - Phrase - Mob - Discount Code,November,24726,5216,0.21,277,0.05,2916.00,0.56,1981.00,42318.64,-935.295
+2023-11-07,Back to School Campaign,Shop - Exact - Mob - Discount Code,November,20699,5540,0.27,320,0.05,2893.00,0.52,2003.00,44985.83,-890.164
+2023-11-21,Back to School Campaign,Shop - 1:1 - Mob - [shop discount code],November,18275,8012,0.44,808,0.07,5651.00,0.71,4773.00,99420.38,-877.986
+2023-11-14,Back to School Campaign,Shop - Exact - Desk - Sale,November,19335,1689,0.09,85,0.06,1118.00,0.66,422.00,8962.23,-696.152
+2023-11-16,Summer Promo Campaign,Shop - Phrase - Desk - Promo Code,November,39649,8281,0.21,1640,0.13,10823.00,1.31,10223.00,215898.79,-600.456
+2023-11-09,Back to School Campaign,Shop - Phrase - Desk - Offer,November,12209,1663,0.14,182,0.10,1600.00,0.96,1164.00,25635.15,-435.967
+2023-11-25,Summer Promo Campaign,Shop - Phrase - Mob - Sale,November,13056,927,0.07,20,0.03,376.00,0.41,76.00,1518.51,-300.066
+2023-11-23,Exclusive Coupon Drive,Shop - Phrase - Mob - Coupon Code,November,6765,1844,0.27,88,0.04,861.00,0.47,573.00,13341.64,-288.085
+2023-11-09,Back to School Campaign,Shop - Phrase - Desk - Discount Code,November,6200,975,0.16,108,0.08,1102.00,1.13,844.00,19822.40,-257.638
+2023-11-01,Holiday Discount Blast,Shop - Exact - Desk - Discount Code,November,7365,1348,0.18,164,0.09,1315.00,0.98,1061.00,22711.98,-253.801
+2023-11-26,Back to School Campaign,Shop - Phrase - Desk - Coupon Code,November,7475,1977,0.26,382,0.12,2616.00,1.32,2368.00,50293.23,-248.203
+2023-11-12,Exclusive Coupon Drive,Shop - Phrase - Desk - Sale,November,10262,667,0.06,30,0.05,386.00,0.58,165.00,3302.80,-220.842
+2023-11-05,Back to School Campaign,Shop - Exact - Mob - Competitor,November,3155,871,0.28,54,0.06,402.00,0.46,268.00,6622.27,-134.484
+2023-11-02,Summer Promo Campaign,Shop - 1:1 - Desk - [shop promo],November,2506,708,0.28,137,0.12,1039.00,1.47,910.00,19932.69,-129.125
+2023-11-02,Exclusive Coupon Drive,Shop - Exact - Desk - Competitor,November,1692,341,0.20,43,0.09,342.00,1.01,258.00,5309.34,-84.485
+2023-11-17,Back to School Campaign,Shop - 1:1 - Mob - [shop coupon code],November,99258,42283,0.43,4349,0.08,24149.00,0.57,24071.00,500400.85,-77.730
+2023-11-13,Holiday Discount Blast,Shop - Exact - Desk - Offer,November,2760,434,0.16,71,0.12,553.00,1.28,496.00,11027.61,-56.945
+2023-11-21,Holiday Discount Blast,Shop - Exact - Mob - Promo Code,November,51335,19009,0.37,2095,0.08,12189.00,0.64,12145.00,256314.93,-44.189
+2023-11-21,Summer Promo Campaign,Shop - Exact - Desk - Free Shipping,November,1805,354,0.20,55,0.14,134.00,0.38,95.00,2156.07,-38.959
+2023-11-11,Holiday Discount Blast,Shop - Exact - Mob - Free Shipping,November,3279,618,0.19,52,0.10,118.00,0.19,93.00,1855.08,-25.215
+2023-11-04,Exclusive Coupon Drive,Shop - Phrase - Mob - Competitor,November,127,32,0.25,2,0.04,18.00,0.59,7.00,139.89,-11.005
+2023-11-16,Back to School Campaign,Shop - Phrase - Desk - Free Shipping,November,85,9,0.11,0,0.00,2.00,0.32,0.00,0.00,-2.000
+2023-11-23,Back to School Campaign,Shop - Phrase - Mob - Free Shipping,November,209,31,0.15,2,0.05,7.00,0.23,7.00,147.75,0.389
+2023-11-18,Clearance Sale Campaign,Shop - 1:1 - Mob - [shop promo],November,5828,1975,0.34,214,0.09,1118.00,0.57,1121.00,22936.40,3.104
+2023-11-26,Exclusive Coupon Drive,Shop - Exact - Mob - Offer,November,6838,1235,0.18,85,0.07,641.00,0.52,676.00,14020.86,34.512
+2023-11-25,Summer Promo Campaign,Shop - Exact - Desk - Black Friday/Cyber Monday,November,257,24,0.09,7,0.28,3.00,0.14,45.00,898.80,41.946
+2023-11-13,Holiday Discount Blast,Shop - 1:1 - Desk - [shop discount code],November,7254,2725,0.38,512,0.11,3182.00,1.17,3227.00,66672.29,45.468
+2023-11-24,Exclusive Coupon Drive,Shop - Exact - Desk - Coupon Code,November,18526,5553,0.30,919,0.10,5982.00,1.08,6047.00,129556.90,64.552
+2023-11-03,Clearance Sale Campaign,Shop - Exact - Mob - Black Friday/Cyber Monday,November,3662,266,0.07,24,0.09,44.00,0.17,160.00,3268.63,115.963
+2023-11-25,Exclusive Coupon Drive,Shop - Exact - Desk - Promo Code,November,25592,7726,0.30,1731,0.14,10914.00,1.41,11223.00,236665.59,308.975
+2023-08-17,Flash Sale Mobile,Shop - Mobile - [flash sale],August,12000,4800,0.40,950,0.10,5200.00,1.08,4900.00,104200.00,-300.000
+2023-09-09,Bundle Bonanza,Shop - 1:1 - Desk - [bundle offer],September,18500,7600,0.41,1150,0.09,6100.00,0.80,5900.00,121500.00,-200.000
